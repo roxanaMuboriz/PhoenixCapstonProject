@@ -1,0 +1,5 @@
+stepDefinitions\LaptopsNoteBooksStep.class
+stepDefinitions\HomePageStep.class
+stepDefinitions\DesktopStep.class
+runner\TestRunner.class
+stepDefinitions\RetailPageStep.class
